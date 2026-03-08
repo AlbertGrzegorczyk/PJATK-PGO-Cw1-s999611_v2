@@ -1,13 +1,5 @@
-h
-e
-l
-l
-o
- 
-w
-o
-r
-l
-d
-d
-
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
+}
